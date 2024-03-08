@@ -1,0 +1,40 @@
+h1 {
+  font-size: 70px;
+  margin-top: 190px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  background-image: linear-gradient(
+    45deg,
+    #b00539,
+    #ce175d,
+    #9e0e37,
+    #ff0004,
+    #ff0084,
+    #10011c
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 2px 2px 4px rgba(211, 18, 18, 0.5);
+}
+
+button {
+  background-color: #b33655;
+  color: white;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-left: 260px;
+}
+
+button:hover {
+  background-color: #db355e;
+}
+
+.icon {
+  margin-right: 10px;
+}
